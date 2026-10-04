@@ -25,7 +25,7 @@ We use the information we collect for the following purposes:
 ## 3. Data Storage and Security
 We employ robust technical and organizational security measures to protect your personal data:
 
-* **Database Storage:** User profile text data and structured information are stored securely using cloud database infrastructure (currently Supabase, subject to change in future migrations).
+* **Database Storage:** User profile text data and structured information are stored securely using cloud database infrastructure.
 * **Media Storage:** Profile photos and visual media are stored securely in cloud object storage spaces backed by Amazon Web Services (AWS) and Google Cloud Platform (GCP).
 * **Security Practices:** We utilize encryption in transit (HTTPS/SSL) and secure access controls to guard against unauthorized access, alteration, disclosure, or destruction of your data.
 
